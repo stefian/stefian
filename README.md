@@ -1,4 +1,4 @@
-# Projects and Experiments
+# Projects & Vibe2Vibe Experiments
 
 Projects and vibe2vibe AI experiments from my homelab.
 
